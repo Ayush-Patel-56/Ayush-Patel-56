@@ -30,7 +30,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayush-Patel-56&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=0d1117&text_color=f0f6fc&icon_color=58a6ff"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayush-Patel-56&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=0d1117&text_color=f0f6fc&icon_color=58a6ff"
     alt="Ayush's GitHub stats"
   />
 </p>
@@ -40,7 +40,7 @@
 ### 🧠 LeetCode
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/mdBDSIh46b?theme=light&font=Inter&border=0" />
+  <img src="https://leetcard.jacoblin.cool/mdBDSIh46b?theme=dark&font=Inter&border=0&bg_color=0d1117&radius=10" />
 </p>
 
 ---
