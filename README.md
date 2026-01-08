@@ -21,7 +21,7 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,cpp,cs,kotlin,dart,django,androidstudio,git,github,figma,xd,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,python,cpp,cs,kotlin,dart,django,androidstudio,git,github,figma,xd,photoshop" />
 </p>
 
 ---
