@@ -20,9 +20,7 @@
 
 ### 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,python,cpp,mysql,cs,kotlin,go,dart,django,supabase,firebase,docker,kubernetes,androidstudio,git,github,figma,xd" />
-</p>
+
 
 ---
 
