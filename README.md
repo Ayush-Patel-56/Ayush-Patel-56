@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Patel</h1>
+<h1 align="center"> 👋, I'm Ayush Patel</h1>
 <p align="center">
   Software Developer • Open Source Contributor • Full-Stack & Android
 </p>
