@@ -66,7 +66,7 @@
   <a href="https://www.codechef.com/users/ayushrpp25">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" alt="CodeChef" />
   </a>
-  <a href="https://discord.com/SANGUINE_">
+  <a href="https://discord.com/ayushpatel56">
     <img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" />
   </a>
   <a href="https://x.com/AyushPatel19592">
