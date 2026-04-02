@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- Software developer with interest in **Full-Stack, Android & Open Source**
+- **Full-Stack, Android & Open Source Developer**
 - Focused on writing **clean, scalable, and maintainable code**
 - Actively practicing **DSA & competitive programming**
 - Based in India 🇮🇳
